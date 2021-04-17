@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Aprendendo sobre github  o ambiente  compartilhador para desenvolvedores e programadores.
+Learning about github, the sharing environment for developers and programmers.
